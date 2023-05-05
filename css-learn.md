@@ -74,7 +74,7 @@ ___
 A style sheet is a collection of style definitions. Every CSS style definitions has two main components:
 
 * A list of one or more selectors, separated by commas, define the element or elements to which the style will be applied.
-* The declaration block, separated by curly braces {..} , specifies what the rule atually does.
+* The declaration block, separated by curly braces {..} , specifies what the rule actually does.
 
 ```css
 h1, h2 {
